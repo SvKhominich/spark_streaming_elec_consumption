@@ -25,10 +25,4 @@ I use Spark to:
 5. write the final output to parquet,
 6. and answer a few analytical SQL questions on top of the result.
 
-## File summary
-The next section profiles the parquet inputs so I can quickly show:
-- file size,
-- number of rows,
-- number of columns,
-- and the column names
-for each dataset used in the pipeline.
+
